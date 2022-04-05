@@ -1,0 +1,16 @@
+C:\Users\User\CsharpProjects\WeekTwoClass\bin\Debug\net5.0\WeekTwoClass.exe
+C:\Users\User\CsharpProjects\WeekTwoClass\bin\Debug\net5.0\WeekTwoClass.deps.json
+C:\Users\User\CsharpProjects\WeekTwoClass\bin\Debug\net5.0\WeekTwoClass.runtimeconfig.json
+C:\Users\User\CsharpProjects\WeekTwoClass\bin\Debug\net5.0\WeekTwoClass.runtimeconfig.dev.json
+C:\Users\User\CsharpProjects\WeekTwoClass\bin\Debug\net5.0\WeekTwoClass.dll
+C:\Users\User\CsharpProjects\WeekTwoClass\bin\Debug\net5.0\ref\WeekTwoClass.dll
+C:\Users\User\CsharpProjects\WeekTwoClass\bin\Debug\net5.0\WeekTwoClass.pdb
+C:\Users\User\CsharpProjects\WeekTwoClass\obj\Debug\net5.0\WeekTwoClass.csproj.AssemblyReference.cache
+C:\Users\User\CsharpProjects\WeekTwoClass\obj\Debug\net5.0\WeekTwoClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\CsharpProjects\WeekTwoClass\obj\Debug\net5.0\WeekTwoClass.AssemblyInfoInputs.cache
+C:\Users\User\CsharpProjects\WeekTwoClass\obj\Debug\net5.0\WeekTwoClass.AssemblyInfo.cs
+C:\Users\User\CsharpProjects\WeekTwoClass\obj\Debug\net5.0\WeekTwoClass.csproj.CoreCompileInputs.cache
+C:\Users\User\CsharpProjects\WeekTwoClass\obj\Debug\net5.0\WeekTwoClass.dll
+C:\Users\User\CsharpProjects\WeekTwoClass\obj\Debug\net5.0\ref\WeekTwoClass.dll
+C:\Users\User\CsharpProjects\WeekTwoClass\obj\Debug\net5.0\WeekTwoClass.pdb
+C:\Users\User\CsharpProjects\WeekTwoClass\obj\Debug\net5.0\WeekTwoClass.genruntimeconfig.cache
